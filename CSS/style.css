@@ -1,0 +1,51 @@
+.cuadro-amarillo{
+	height: 50px;
+	width:820px;
+	background-color: #FFD800;
+	font-size: 12px;
+	text-align: center;
+	padding-top:  3px;
+
+}
+.parte1{
+	height: 440px;
+	width: 201px;
+	border: 3px solid black;
+	float: left;
+	
+}
+h2{
+	text-align: center;
+}
+p{
+	text-align: justify;
+	padding: 0px 15px 0px 15px;
+}
+
+.parte2{
+	height: 440px;
+	width: 400px;
+	border: 3px solid black;
+	float: left;
+}
+.parte3{
+	height: 440px;
+	width: 201px;
+	border: 3px solid black;
+	float: left;
+
+}
+.imagen1, .imagen2 {
+	height: 150px;
+	width: 200px;
+
+}
+.cuadro-amarillo2{
+	height: 30px;
+	width:820px;
+	background-color: #FFD800;
+	font-size: 8px;
+	text-align: center;
+	padding-bottom: 10px;
+    float:right;
+}
